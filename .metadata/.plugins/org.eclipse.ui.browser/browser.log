@@ -1,0 +1,30 @@
+
+Nov 14, 2024 19:31:42.61 NEW SESSION
+Nov 14, 2024 19:31:42.62 [4484:13088:1114/193142.614:ERROR:app_bound_encryption_provider_win.cc(106)] Unable to decrypt key. Result: Error (0x13D) while retrieving error. (0x8004A003) GetLastError: 2148073483
+Nov 14, 2024 19:31:44.78 Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 14, 2024 19:31:44.78 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+Nov 14, 2024 19:31:45.09 [4484:12320:1114/193145.097:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 14, 2024 19:32:13.96 [4484:12320:1114/193213.964:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 14, 2024 19:33:12.51 [4484:12320:1114/193312.512:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 14, 2024 19:34:41.48 [4484:12320:1114/193441.482:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 14, 2024 19:37:14.53 [4484:2760:1114/193714.529:ERROR:sharing_service.cc(325)] Device un-registration failed with fatal error
+
+Nov 15, 2024 16:15:29.09 NEW SESSION
+Nov 15, 2024 16:15:29.10 [10968:12760:1115/161529.096:ERROR:app_bound_encryption_provider_win.cc(106)] Unable to decrypt key. Result: Error (0x13D) while retrieving error. (0x8004A003) GetLastError: 2148073483
+Nov 15, 2024 16:15:31.26 Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 15, 2024 16:15:31.26 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+Nov 15, 2024 16:15:32.26 [10968:10216:1115/161532.260:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 15, 2024 16:15:57.67 [10968:10216:1115/161557.678:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 15, 2024 16:16:51.83 [10968:10216:1115/161651.833:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 15, 2024 16:18:23.15 [10968:10216:1115/161823.155:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 15, 2024 16:21:04.96 [10968:10216:1115/162104.964:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 15, 2024 16:27:07.69 [10968:10216:1115/162707.698:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 15, 2024 16:49:42.43 [11976:6408:1115/164942.436:ERROR:app_bound_encryption_provider_win.cc(106)] Unable to decrypt key. Result: Error (0x13D) while retrieving error. (0x8004A003) GetLastError: 2148073483
+Nov 15, 2024 16:49:44.57 Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 15, 2024 16:49:44.57 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+Nov 15, 2024 16:49:45.38 [11976:1388:1115/164945.381:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 15, 2024 16:50:08.55 [11976:1388:1115/165008.553:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 15, 2024 16:50:58.02 [11976:1388:1115/165058.026:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 15, 2024 16:52:47.57 [11976:1388:1115/165247.572:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 15, 2024 16:55:58.59 [11976:1388:1115/165558.596:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Nov 15, 2024 17:03:37.96 [11976:1388:1115/170337.961:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
